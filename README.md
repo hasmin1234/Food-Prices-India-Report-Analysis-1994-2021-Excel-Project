@@ -22,7 +22,7 @@ _4.DASHBOARD CREATION_
 _5.PUBLISHING TO POWER BI SERVICE_
 
 ## RERPORTS AND PRESENTATION   
-_[Presentation](https://drive.google.com/file/d/16A8oQG9qwqju-Ogz4EI6gviwUHrz7-eH/view?usp=drivesdk )_  
+_[Presentation](https://1drv.ms/x/c/ad42e42ba74a31af/EY7oOuw2lbxKu9PCRJmTDWwBnvnbBPkx8GkmS7VSvFn1Hw?e=CqNwUU)  
 
 # TASKED PERFORMED
 _**Data Cleaning**._  

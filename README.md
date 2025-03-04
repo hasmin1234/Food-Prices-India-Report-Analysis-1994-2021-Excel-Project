@@ -17,7 +17,7 @@ _4.DASHBOARD CREATION_
 _5.PUBLISHING Excel Report_
 
 ## RERPORTS AND PRESENTATION   
-_[Presentation](https://1drv.ms/x/c/ad42e42ba74a31af/EY7oOuw2lbxKu9PCRJmTDWwBnvnbBPkx8GkmS7VSvFn1Hw?e=CqNwUU)  
+_[Presentation](https://1drv.ms/x/c/ad42e42ba74a31af/EY7oOuw2lbxKu9PCRJmTDWwBnvnbBPkx8GkmS7VSvFn1Hw?e=CqNwUU)_  
 
 # TASKED PERFORMED
 _**Data Cleaning**._  

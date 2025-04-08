@@ -19,24 +19,4 @@ _5.PUBLISHING Excel Report_
 ## RERPORTS AND PRESENTATION   
 _[Presentation](https://1drv.ms/x/c/ad42e42ba74a31af/EY7oOuw2lbxKu9PCRJmTDWwBnvnbBPkx8GkmS7VSvFn1Hw?e=CqNwUU)_  
 
-# TASKED PERFORMED
-_**Data Cleaning**._  
-_Deleting Renundant columns  
-Renaming the columns 
-Droping Duplicates  
-Cleaning Individual Columns 
-Removing the NaN values from the datasets_  
-_**Data Visualisation**._  
-_Ploting correlation map for all numeric variables  
-Overtime
-Marital Status
-Job Role 
-Gender 
-Education Field   
-Department   
-Business Travel   
-Relation Between Overtime and age 
-Total Working Years 
-Education Level  
-Number of companies worked
-Distance from home_
+
